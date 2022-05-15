@@ -1,3 +1,7 @@
 .panda-info-bg{
     background-color: #FCEAE8;
 }
+/* Categories CSS */
+.categories img{
+    width: 130px;
+}
